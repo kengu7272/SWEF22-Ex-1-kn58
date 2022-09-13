@@ -1,5 +1,6 @@
 # SWEF22-Ex-1-kn58
 <kengu72@gmail.com>
+@Kilgallin
 
 ## **Software Engineering** Exercise 1
 
