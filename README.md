@@ -1,7 +1,7 @@
 # SWEF22-Ex-1-kn58
 <kengu72@gmail.com>
 
-## *Software Engineering** Exercise 1
+## **Software Engineering** Exercise 1
 
 This exercise was broken down into 7 parts, with some parts optional.
 These are the details of the parts:
